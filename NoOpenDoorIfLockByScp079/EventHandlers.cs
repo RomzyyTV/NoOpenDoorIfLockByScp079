@@ -1,7 +1,7 @@
 ﻿using Exiled.API.Enums;
 using Exiled.Events.EventArgs.Player;
 
-namespace NoOpenDoorIfLoockByScp079;
+namespace NoOpenDoorIfLockByScp079;
 public class EventHandlers
 {
     public void OnPlayerInteractingDoor(InteractingDoorEventArgs ev)

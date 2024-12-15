@@ -3,8 +3,7 @@ using Exiled.API.Enums;
 using Exiled.API.Features;
 using Player = Exiled.Events.Handlers.Player;
 
-namespace NoOpenDoorIfLoockByScp079;
-
+namespace NoOpenDoorIfLockByScp079;
 public class Plugin : Plugin<Config>
 {
     public override string Author => "RomzyyTV";

@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoOpenDoorIfLoockByScp079", "NoOpenDoorIfLoockByScp079\NoOpenDoorIfLoockByScp079.csproj", "{25C53C02-B0FB-4AA7-A88B-A9E719D4E133}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoOpenDoorIfLockByScp079", "NoOpenDoorIfLockByScp079\NoOpenDoorIfLockByScp079.csproj", "{25C53C02-B0FB-4AA7-A88B-A9E719D4E133}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

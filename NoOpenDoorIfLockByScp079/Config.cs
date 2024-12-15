@@ -3,7 +3,7 @@ using System.ComponentModel;
 using Exiled.API.Interfaces;
 using PlayerRoles;
 
-namespace NoOpenDoorIfLoockByScp079;
+namespace NoOpenDoorIfLockByScp079;
 
 public class Config : IConfig
 {

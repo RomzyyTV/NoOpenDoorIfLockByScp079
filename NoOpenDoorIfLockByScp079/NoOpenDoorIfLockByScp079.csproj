@@ -8,8 +8,8 @@
         <ProjectGuid>{25C53C02-B0FB-4AA7-A88B-A9E719D4E133}</ProjectGuid>
         <OutputType>Library</OutputType>
         <AppDesignerFolder>Properties</AppDesignerFolder>
-        <RootNamespace>NoOpenDoorIfLoockByScp079</RootNamespace>
-        <AssemblyName>NoOpenDoorIfLoockByScp079</AssemblyName>
+        <RootNamespace>NoOpenDoorIfLockByScp079</RootNamespace>
+        <AssemblyName>NoOpenDoorIfLockByScp079</AssemblyName>
         <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
         <FileAlignment>512</FileAlignment>
         <LangVersion>12</LangVersion>
